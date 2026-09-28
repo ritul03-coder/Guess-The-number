@@ -1,5 +1,5 @@
 <h1>
-<img width="25" alt="Image" src="https://github.com/user-attachments/assets/70199ebc-3a36-437b-a4b7-f657b1aedaae" />
+<img width="80" alt="Image" src="https://github.com/user-attachments/assets/24bb6bf9-7ff8-472c-9ba7-8fdfd5f63fe9" />
 Guess The Number Game
 </h1>
 A simple and interactive guess the number game made in python. The computer will come up with a random number between 1 and 100, and you have to guess it with the help of "too High" and "too Low" hints.
